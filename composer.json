@@ -1,0 +1,15 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/non111111/skeleton"
+        }
+    ],
+"minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*" ,
+	   "non111111/skeleton": "*",
+        "typo3/phar-stream-wrapper" : "3.1.0"   	
+    },
+"minimum-stability": "dev"
+}
